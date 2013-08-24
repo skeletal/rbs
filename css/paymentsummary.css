@@ -1,0 +1,85 @@
+.paymentsummaryperf {
+	border: 1px solid #666;
+	margin: 2em;
+	width: 40em;
+	padding: 2em;
+}
+
+.paymentsummary {
+	margin: 2em 3em;
+	border-collapse: collapse;
+
+}
+
+.paymentseats {
+	width: 10em;
+	background-color: #1dc06f;
+	border-bottom: 4px #444 solid;
+	padding: 0.5em;
+	width: 10em;
+}
+
+.paymentseatshead {
+	width: 10em;
+	border-bottom: 4px #444 solid;
+	padding: 0.5em;
+	width: 10em;
+}
+
+.paymentprice {
+	background-color: #1dc06f;
+	border-right: 1px solid #666;
+	border-left: 1px solid #666;
+	border-top: 4px #393944 solid;
+	width: 10em;
+	text-align: center;
+}
+
+.paymentpricehead {
+	background-color: #1dc06f;
+	border-right: 1px solid #666;
+	border-left: 1px solid #666;
+	border-top: 4px #393944 solid;
+}
+
+.paymenttotal {
+	margin-left: 3em;
+}
+
+.paymentexpiry {
+	margin-left: 3em;
+}
+
+#paymentoptions {
+	margin: 0 0 0 1em;
+}
+
+.paymentoption {
+	margin: 1em 1em;
+}
+
+.pay {
+	border: 1px solid #666;
+	margin: 2em;
+	width: 40em;
+	padding: 2em;
+}
+
+.paymentsummaryperf {
+	border: 1px solid #666;
+	margin: 2em;
+	width: 40em;
+	padding: 2em;
+}
+
+#paypalinfo {
+	display: none;
+}
+
+#ddinfo {
+	display: none;
+}
+
+#salesinfo {
+	display: none;
+}

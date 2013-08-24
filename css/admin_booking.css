@@ -1,0 +1,51 @@
+.closedsegmentform {
+    margin: 5px 10px;
+}
+.closedsegmentform input.on {
+    font-weight: bold;
+}
+.closedsegmentform input.opened.on {
+    background-color:#0a0;
+    color: #fff;
+}
+.closedsegmentform input.closed.on {
+    background-color:#a00;
+    color: #fff;
+}
+.closedsegmentform input.off {
+    color:#aaa;
+}
+.closedsegmentform input.closed.off:hover {
+    cursor: hand;
+    background-color: #a00;
+    color: #fff;
+}
+.closedsegmentform input.opened.off:hover {
+    cursor: hand;
+    background-color: #0a0;
+    color: #fff;
+}
+
+a.segmentlink_admin {
+    display:block;
+    font-size:20px;
+    padding: 10px;
+}
+a.segmentlink_admin:hover {
+    background-color: #eee;
+}
+
+table.segmentlist_admin {
+    padding: 5px; 
+    margin: 0px auto;
+    margin-bottom:50px; 
+    width:auto;
+}
+table.segmentlist_admin th {
+    padding: 0px;
+}
+
+#startnewbooking { display: none; }
+#savebooking { display: none; }
+#resetchanges { display: none; }
+#cancelbooking {display: none; }

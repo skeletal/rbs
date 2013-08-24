@@ -1,0 +1,56 @@
+.bookingtable {
+	border-collapse: collapse;
+	margin: 2em 3em;
+}
+
+.bookingsummaryperf {
+	border: 1px solid #666;
+	margin: 2em;
+	width: 40em;
+	padding: 2em;
+}
+
+.price {
+	width:100px;
+	margin: 0px;
+	text-align: center;
+	background-color: #fff;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	height: 25px;
+	border-top: 4px #393944 solid;
+}
+
+.priceheaders {
+	margin: 0 0 0 200px;
+	text-align: center;
+}
+
+.priceheader {
+	width:10em;
+	margin: 0px;
+	background-color: #334;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+}
+
+.bookedstatus {
+	width: 10em;
+	background-color: #1DC06F;
+	margin: 0px;
+	border-top: 4px #444 solid;
+}
+
+.booking {
+	background-color: #1DC06F;
+	border-left: 4px #393944 solid;
+	border-top: 4px #444 solid;
+	padding: 0.5em;
+	margin: 0px;
+	width: 6em;
+}
+
+#payforbooking{
+	margin-left: 2em;
+	padding: 0.5em;
+}

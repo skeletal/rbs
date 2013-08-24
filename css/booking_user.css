@@ -1,0 +1,22 @@
+#legend {
+	text-align: center;
+	padding: 0.5em 0 0 0;
+}
+
+#legend h2 {
+	padding: 0;
+	margin: 0 0 0.25em 0;
+}
+
+#legendborder {
+	text-align: center;
+	border: 1px solid #444;
+	display: inline-block;
+	padding: 1em;
+}
+
+.legendentry {
+	text-align: center;
+	width: 5em;
+	display: inline-block;
+}

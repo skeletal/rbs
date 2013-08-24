@@ -1,0 +1,59 @@
+h1 {
+	margin-left: 0;
+}
+
+#loginblurb {
+	text-align: left;
+	display: inline-block;
+	width: 90%;
+	margin-right: 2em;
+	margin-top: 5em;
+	vertical-align: top;
+	max-width: 75em;
+}
+
+#loginform {
+	text-align: center;
+	width: 100%;
+}
+
+#login {
+	text-align: left;
+	display: inline-block;
+	width: 45%;
+	margin-right: 2em;
+	vertical-align: top;
+	max-width: 35em;
+}
+
+#register {
+	text-align: left;
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	max-width: 40em;
+}
+
+.loginfield {
+	margin: 0;
+	padding: 0.5em 0 0.5em 0em;
+}
+
+.loginfield input {
+	margin: 0;
+	padding: 0;
+}
+
+.loginblurb {
+	margin: 1em 1em 4em 0em;
+}
+
+.loginlabel {
+	float: left;
+	width: 10em;
+}
+
+.loginsubmit {
+	clear: both;
+	margin: 1em 1em 4em 0em;
+}
